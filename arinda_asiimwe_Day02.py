@@ -61,15 +61,21 @@ while count <=10:
 
 # 1
 colors = ['Indigo', 'Turqoise', 'Cyan', 'Green']
+
+reverse = colors[::-1]
 print('My favorite colors are' )
 for color in colors:
     print(color)
+# for reverse in for loop 
+for color in reverse:
+    print(color)
     
 # 2 
-
-while count<5:
-    int(input('Enter the numbers'))
-    count -= 1
+list = [1,2,3,4,5]
+index = len(list)-1
+while index>=0:
+    print(list[index])
+    index -= 1
     
    
 

@@ -41,7 +41,7 @@ else:
 
 # for loop(lists, tuples, dictionary, set, string)
 
-# while repeats as long as a condition is true
+# while repeats as long as a condition is true 
 
 # Example 3 
 
@@ -50,7 +50,7 @@ cars = ['Tesla', 'Audi','BMW', 'Jeep', 'RangeRover']
 for car in cars:
     print(car)
     
-# Example 4 count 1 to 10
+# Example 4 count 1 to 10 using while
 
 count = 1
 while count <=10:

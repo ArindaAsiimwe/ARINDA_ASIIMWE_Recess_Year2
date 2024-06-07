@@ -25,16 +25,16 @@ else:
     
 # Exercise 1 in class
 
-# age = int(input('Enter your age please: '))
+age = int(input('Enter your age please: '))
 
-# if age < 13:
-#     print('Discount is UGX 1,000')
-# elif age>=13 and age<18:
-#     print('Discount is UGX 500')
-# elif age>=18 and age<=65  :
-#     print('No discount, pay full price of UGX 2000')
-# else:
-#     print('Pay UGX 5000')
+if age < 13:
+    print('Discount is UGX 1,000')
+elif age>=13 and age<18:
+    print('Discount is UGX 500')
+elif age>=18 and age<=65  :
+    print('No discount, pay full price of UGX 2000')
+else:
+    print('Pay UGX 5000')
     
     
 # LOOPS

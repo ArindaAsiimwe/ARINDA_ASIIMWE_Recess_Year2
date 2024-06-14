@@ -111,7 +111,6 @@ def get_user_info(**kwargs):
     for key, value in kwargs.items():
         print(f"{key}: {value}")
 
-# Example usage:
 get_user_info(name="Asiimwe", age=30, city="Kampala")
 
 

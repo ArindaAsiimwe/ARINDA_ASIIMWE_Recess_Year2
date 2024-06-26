@@ -1,0 +1,37 @@
+number_siblings,name,gender,age,living_allowance,have_bf_gf,profession,daily_meals
+1,Nakasujja Gertrude,female,33,,1,Data Scientist,2
+3,Arinda Asiimwe Atweta,female,23,"50,000",1,Machine Learning Enginer,1
+4,Ndjekornom Victoire,male,23,"25,000",0,Data Scientist,1
+0,KATURAMU EDGAR,male,27,"500,000",0,Machine Learning Enginer,2
+4,Abinsinguza Lasse,male,24,"100,000",1,Data Scientist,2
+4,Beingana Jim Junior,male,20,"10,000",0,Data Scientist,3
+6,Cyiza Ndoli Jean de Dieu,male,23,"60,000",0,Data Analyst,2
+8,MUSIIMENTA CISSYLYN,female,20,"260,000",0,Machine Learning Enginer,3
+2,Nakanwagu Vanesa,female,23,"250,000",1,Data Scientist,3
+9,Otim Ronald,male,25,,0,Data Scientist,2
+1,Levi Aine,male,24,"1,000,000",0,Data Scientist,3
+1,NASAAZI TAKIA,female,23,"2,000",0,Data Analyst,1
+5,Alvin,male,23,"2,500,000",1,Machine Learning Enginer,3
+3,MULINDWA YUSUF ,male,22,,0,Data Scientist,3
+2,Hillal,male,32,"150,000",0,Machine Learning Enginer,2
+9,mpairwe   lauben,male,26,"760,000",1,Machine Learning Enginer,3
+4,Lutalo Allan,male,24,"200,000",1,Data Scientist,3
+2,Efrata Aron,female,22,"200,000",1,Data Analyst,2
+4,David Hope ,male,22,"35,000",0,Machine Learning Enginer,3
+1,ntegeka k pius,male,30,"700,000",0,Data Scientist,3
+4,Yapyeko Rebecca,female,24,"500,000",0,Data Scientist,3
+7,NKETAMUKAMA TARASISIO,male,22,"600,000",0,Machine Learning Enginer,2
+3,Ampaire Stacey Nuwagaba,female,22,"300,000",0,Data Analyst,2
+5,Ahaabwe Derrick,male,22,"200,000",0,Data Scientist,2
+0,Ssentongo Henry ,male,27,,0,Machine Learning Enginer,1
+6, Shadia,female,23,"20,000",0,Data Scientist,2
+4,Harlan,male,24,"250,000",0,Data Scientist,3
+1,AMADILE MAJID,male,23,,0,Data Analyst,2
+8,Nankya Elsa,female,23,"120,000",1,Data Scientist,2
+2,Asiimire Patricia ,female,22,"1,000,000",0,Data Scientist,3
+2,Rwakasiisi Edwin,male,24,"150,000",1,Data Scientist,3
+5,Ampumuza Aijuka,female,23,"500,000",0,Data Scientist,2
+5,TUKWASIIBWE MARTIN,male,23,"200,000",0,Data Analyst,2
+8,Olowo Omondi Philly ,male,23,,1,Data Scientist,2
+4,Kisembo Rodgers Bangirana,male,23,"300,000",0,Data Analyst,3
+3,NIWAMANYA JAMES ,male,29,,1,Machine Learning Enginer,1

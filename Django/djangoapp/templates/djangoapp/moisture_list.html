@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Soil Moisture Readings</title>
+</head>
+<body>
+
+<h1>Soil Moisture Monitoring</h1>
+<ul> 
+    {% for soil_reading in soil_readings %}
+    <li> 
+        {{ soil_reading.timestamp }}: {{ soil_reading.soil_moisture_percentage }}
+    </li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>

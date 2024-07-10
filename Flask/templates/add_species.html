@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Add a new species</title>
+</head>
+<body>
+    <h1> Add a new species </h1>
+    <form action="{{ url_for('add_species') }}" method="post">
+        <label for="name">Name: </label>
+        <input type="text" name="name" id="name">
+        <br> <br>
+        <label for="habitat">Habitat: </label>
+        <input type="text" name="habitat" id="habitat">
+        <br> <br>
+        <input type="submit" value="Add the species">
+    </form>
+    <br>
+    <a href="{{ url_for('index') }}"> List </a>
+</body>
+</html>

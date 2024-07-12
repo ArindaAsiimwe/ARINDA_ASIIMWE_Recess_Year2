@@ -1,0 +1,10 @@
+[
+    {
+        "city": "London",
+        "temperature": 289.6,
+        "weather": "broken clouds",
+        "humidity": 70,
+        "pressure": 1017,
+        "wind_speed": 3.6
+    }
+]
